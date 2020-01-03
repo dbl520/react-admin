@@ -98,8 +98,3 @@ yarn build
 
 ### 截图
 
-![image](https://raw.githubusercontent.com/ltadpoles/react-admin/master/src/assets/images/index.jpg)
-
-![image](https://raw.githubusercontent.com/ltadpoles/react-admin/master/src/assets/images/form.jpg)
-
-![image](https://raw.githubusercontent.com/ltadpoles/react-admin/master/src/assets/images/editor.jpg)
